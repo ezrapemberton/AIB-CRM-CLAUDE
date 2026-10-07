@@ -1,0 +1,7 @@
+{
+  "name": "aib-crm",
+  "private": true,
+  "type": "module",
+  "description": "Ezra's recruiting workspace for the AI in Business Club (UMN Carlson)",
+  "engines": { "node": ">=20" }
+}
